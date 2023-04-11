@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/quiz-box.github.io/static/css/main.092ca3a6.css",
-    "main.js": "/quiz-box.github.io/static/js/main.70e370e9.js",
-    "static/js/787.59f43fa6.chunk.js": "/quiz-box.github.io/static/js/787.59f43fa6.chunk.js",
-    "static/media/banner-tebak.png": "/quiz-box.github.io/static/media/banner-tebak.b53399ab58c899bd6a7a.png",
-    "static/media/jokowi.jpg": "/quiz-box.github.io/static/media/jokowi.55083de995f6d7b8e299.jpg",
-    "index.html": "/quiz-box.github.io/index.html",
-    "main.092ca3a6.css.map": "/quiz-box.github.io/static/css/main.092ca3a6.css.map",
-    "main.70e370e9.js.map": "/quiz-box.github.io/static/js/main.70e370e9.js.map",
-    "787.59f43fa6.chunk.js.map": "/quiz-box.github.io/static/js/787.59f43fa6.chunk.js.map"
+    "main.css": "/quiz-box/static/css/main.092ca3a6.css",
+    "main.js": "/quiz-box/static/js/main.31b28e9f.js",
+    "static/js/787.59f43fa6.chunk.js": "/quiz-box/static/js/787.59f43fa6.chunk.js",
+    "static/media/banner-tebak.png": "/quiz-box/static/media/banner-tebak.b53399ab58c899bd6a7a.png",
+    "static/media/jokowi.jpg": "/quiz-box/static/media/jokowi.55083de995f6d7b8e299.jpg",
+    "index.html": "/quiz-box/index.html",
+    "main.092ca3a6.css.map": "/quiz-box/static/css/main.092ca3a6.css.map",
+    "main.31b28e9f.js.map": "/quiz-box/static/js/main.31b28e9f.js.map",
+    "787.59f43fa6.chunk.js.map": "/quiz-box/static/js/787.59f43fa6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.092ca3a6.css",
-    "static/js/main.70e370e9.js"
+    "static/js/main.31b28e9f.js"
   ]
 }
