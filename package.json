@@ -1,7 +1,7 @@
 {
   "name": "quiz-box",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://daris25.github.io/quiz-box.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
